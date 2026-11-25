@@ -21,6 +21,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Word & Character Counter | عداد الكلمات والحروف](https://abood-ayman.github.io/word-counter-ar/) — live counts and reading time for Arabic and English
 
 **Everyday utilities**
+- [Unit Price Comparator | مقارنة أسعار العبوات](https://abood-ayman.github.io/unit-price-comparator-ar/) — which package is really cheapest per kilo, liter or piece
 - [QR Code Generator | مولد رمز QR](https://abood-ayman.github.io/qr-generator-ar/) — text, links and WiFi QR codes, generated on your device
 - [Password Generator | مولد كلمات المرور](https://abood-ayman.github.io/password-generator-ar/) — strong random passwords with a strength meter
 - [Age Calculator | حاسبة العمر](https://abood-ayman.github.io/age-calculator-ar/) — exact age in Gregorian and Hijri, with birthday countdown
