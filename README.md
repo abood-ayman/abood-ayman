@@ -1,0 +1,44 @@
+# Abdullah Ayman
+
+I build free, privacy-friendly web tools — mostly Arabic-first — with the help of AI tools. Everything runs in the browser: no accounts, no tracking, no servers.
+
+## Free tools (live on GitHub Pages)
+
+**Money and calculations**
+- [Zakat Calculator | حاسبة الزكاة](https://abood-ayman.github.io/zakat-calculator-ar/) — zakat on cash, gold and silver with an automatic nisab check
+- [Loan Installment Calculator | حاسبة الأقساط الشهرية](https://abood-ayman.github.io/loan-installments-ar/) — monthly payment and total interest for any loan
+- [Home Electricity Bill (Egypt) | حاسبة فاتورة الكهرباء](https://abood-ayman.github.io/electricity-bill-eg/) — estimate your bill from kWh using the current Egyptian tariff tiers
+- [Discount Calculator | حاسبة الخصم](https://abood-ayman.github.io/discount-calculator-ar/) — final price and savings, forward and reverse
+- [Percentage Calculator | حاسبة النسبة المئوية](https://abood-ayman.github.io/percentage-calculator-ar/) — every percentage question in one page
+- [Savings Goal Calculator | حاسبة هدف التوفير](https://abood-ayman.github.io/savings-goal-ar/) — months to your goal, or monthly saving to hit a date
+- [Hourly Wage Calculator | حاسبة أجر الساعة](https://abood-ayman.github.io/hourly-wage-ar/) — salary to real hourly pay, and compare two offers
+- [Expense Splitter | مقسم المصاريف](https://abood-ayman.github.io/expense-splitter-ar/) — who owes whom after a trip or shared expenses
+
+**Study and productivity**
+- [GPA Calculator | حاسبة المعدل التراكمي](https://abood-ayman.github.io/gpa-calculator-ar/) — GPA out of 4 and equivalent percentage
+- [Pomodoro Timer | مؤقت بومودورو](https://abood-ayman.github.io/pomodoro-timer-ar/) — 25/5 focus sessions with a long break every four
+- [To-Do List | قائمة المهام اليومية](https://abood-ayman.github.io/todo-list-ar/) — tasks saved only on your device
+- [Word & Character Counter | عداد الكلمات والحروف](https://abood-ayman.github.io/word-counter-ar/) — live counts and reading time for Arabic and English
+
+**Everyday utilities**
+- [QR Code Generator | مولد رمز QR](https://abood-ayman.github.io/qr-generator-ar/) — text, links and WiFi QR codes, generated on your device
+- [Password Generator | مولد كلمات المرور](https://abood-ayman.github.io/password-generator-ar/) — strong random passwords with a strength meter
+- [Age Calculator | حاسبة العمر](https://abood-ayman.github.io/age-calculator-ar/) — exact age in Gregorian and Hijri, with birthday countdown
+- [Date Difference Calculator | الفرق بين تاريخين](https://abood-ayman.github.io/date-diff-calculator-ar/) — days between dates, add or subtract days
+- [BMI Calculator | حاسبة مؤشر كتلة الجسم](https://abood-ayman.github.io/bmi-calculator-ar/) — BMI, category and healthy weight range
+- [Unit Converter | محول الوحدات](https://abood-ayman.github.io/unit-converter-ar/) — length, weight, volume and temperature
+- [Arabic Number to Words | تفقيط الأرقام](https://abood-ayman.github.io/tafqit-ar/) — numbers as Arabic words for checks and contracts
+- [Stopwatch & Timer | ساعة إيقاف ومؤقت](https://abood-ayman.github.io/stopwatch-timer-ar/) — stopwatch with laps and a countdown timer
+
+**Safety**
+- [Job Scam Checker | كاشف إعلانات التوظيف الوهمية](https://abood-ayman.github.io/job-scam-checker-ar/) — check a job ad against common scam red flags
+
+## Apps
+- [Mirror Ledger](https://github.com/abood-ayman/mirror-ledger-app)
+- [ProApply Studio](https://github.com/abood-ayman/proapply-studio-app)
+
+## How these are built
+Each tool is a single static page that runs fully on your device. Built with AI tools, then tested and verified. Every repo includes a screenshot and notes on privacy.
+
+## Copyright
+Tools are MIT licensed - Copyright (c) 2026 Abdullah Ayman, unless a repo says otherwise.
