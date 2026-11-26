@@ -15,6 +15,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Expense Splitter | مقسم المصاريف](https://abood-ayman.github.io/expense-splitter-ar/) — who owes whom after a trip or shared expenses
 - [Rent Increase Calculator | حاسبة زيادة الإيجار](https://abood-ayman.github.io/rent-increase-ar/) — rent after annual increases, year-by-year table
 - [Trip Fuel Cost Calculator | حاسبة تكلفة البنزين](https://abood-ayman.github.io/fuel-cost-ar/) — liters and cost for any trip, one-way or round trip
+- [Hijri Age Calculator | حاسبة العمر بالهجري](https://abood-ayman.github.io/age-hijri-ar/) — your birthdate and age in Hijri (Umm al-Qura)
 - [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
