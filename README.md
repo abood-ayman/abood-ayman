@@ -13,6 +13,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Savings Goal Calculator | حاسبة هدف التوفير](https://abood-ayman.github.io/savings-goal-ar/) — months to your goal, or monthly saving to hit a date
 - [Hourly Wage Calculator | حاسبة أجر الساعة](https://abood-ayman.github.io/hourly-wage-ar/) — salary to real hourly pay, and compare two offers
 - [Expense Splitter | مقسم المصاريف](https://abood-ayman.github.io/expense-splitter-ar/) — who owes whom after a trip or shared expenses
+- [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
 - [Sleep Cycle Calculator | حاسبة مواعيد النوم](https://abood-ayman.github.io/sleep-calculator-ar/) — best times to sleep or wake by 90-minute sleep cycles
