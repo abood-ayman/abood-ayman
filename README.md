@@ -23,6 +23,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Word & Character Counter | عداد الكلمات والحروف](https://abood-ayman.github.io/word-counter-ar/) — live counts and reading time for Arabic and English
 
 **Everyday utilities**
+- [Random Picker | قرعة عشوائية](https://abood-ayman.github.io/random-picker-ar/) — fair draw from a name list or a random number in any range
 - [Tip Calculator & Bill Splitter | حاسبة الإكرامية وتقسيم الحساب](https://abood-ayman.github.io/tip-calculator-ar/) — the right tip and an even split between friends
 - [Unit Price Comparator | مقارنة أسعار العبوات](https://abood-ayman.github.io/unit-price-comparator-ar/) — which package is really cheapest per kilo, liter or piece
 - [QR Code Generator | مولد رمز QR](https://abood-ayman.github.io/qr-generator-ar/) — text, links and WiFi QR codes, generated on your device
