@@ -15,6 +15,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Expense Splitter | مقسم المصاريف](https://abood-ayman.github.io/expense-splitter-ar/) — who owes whom after a trip or shared expenses
 
 **Study and productivity**
+- [Sleep Cycle Calculator | حاسبة مواعيد النوم](https://abood-ayman.github.io/sleep-calculator-ar/) — best times to sleep or wake by 90-minute sleep cycles
 - [GPA Calculator | حاسبة المعدل التراكمي](https://abood-ayman.github.io/gpa-calculator-ar/) — GPA out of 4 and equivalent percentage
 - [Pomodoro Timer | مؤقت بومودورو](https://abood-ayman.github.io/pomodoro-timer-ar/) — 25/5 focus sessions with a long break every four
 - [To-Do List | قائمة المهام اليومية](https://abood-ayman.github.io/todo-list-ar/) — tasks saved only on your device
