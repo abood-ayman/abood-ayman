@@ -18,6 +18,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Hijri Age Calculator | حاسبة العمر بالهجري](https://abood-ayman.github.io/age-hijri-ar/) — your birthdate and age in Hijri (Umm al-Qura)
 - [Islamic Occasions Countdown | عداد رمضان والمناسبات](https://abood-ayman.github.io/islamic-countdown-ar/) — days to Ramadan, Eids and Ashura in Hijri and Gregorian
 - [Daily Calorie Calculator | حاسبة السعرات الحرارية](https://abood-ayman.github.io/calories-calculator-ar/) — daily calorie needs with loss/gain targets (Mifflin-St Jeor)
+- [Overtime Pay Calculator | حاسبة الأجر الإضافي](https://abood-ayman.github.io/overtime-calculator-eg/) — overtime dues under Egyptian labor law (+35% day, +70% night, double rest day)
 - [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
