@@ -1,6 +1,9 @@
 # Abdullah Ayman
 
 I build free, privacy-friendly web tools — mostly Arabic-first — with the help of AI tools. Everything runs in the browser: no accounts, no tracking, no servers.
+## Current focus: databases and SQL
+
+I'm studying databases and SQL every day and building practice projects. Follow my learning log: [sql-practice](https://github.com/abood-ayman/sql-practice). The free tools below were built earlier with AI tools.
 
 ## Free tools (live on GitHub Pages)
 
