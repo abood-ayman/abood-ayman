@@ -28,6 +28,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Compound Interest Calculator | حاسبة الفايدة المركبة](https://abood-ayman.github.io/compound-interest-ar/) — growth with monthly deposits, year-by-year table
 - [Paint Calculator | حاسبة الدهانات](https://abood-ayman.github.io/paint-calculator-ar/) — liters needed per room with coats and ceiling
 - [Book Reading Time Calculator | حاسبة وقت القراءة](https://abood-ayman.github.io/reading-time-ar/) — days and expected finish date for your book
+- [Appliance Electricity Cost Calculator | حاسبة استهلاك الأجهزة](https://abood-ayman.github.io/appliance-cost-ar/) — monthly kWh and cost per appliance
 - [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
