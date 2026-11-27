@@ -6,6 +6,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 
 **Money and calculations**
 - [Zakat Calculator | حاسبة الزكاة](https://abood-ayman.github.io/zakat-calculator-ar/) — zakat on cash, gold and silver with an automatic nisab check
+- [Gold Price Calculator | حاسبة سعر الذهب](https://abood-ayman.github.io/gold-price-ar/) — gold value from a gram price you enter, karat conversion and making charge
 - [Loan Installment Calculator | حاسبة الأقساط الشهرية](https://abood-ayman.github.io/loan-installments-ar/) — monthly payment and total interest for any loan
 - [Home Electricity Bill (Egypt) | حاسبة فاتورة الكهرباء](https://abood-ayman.github.io/electricity-bill-eg/) — estimate your bill from kWh using the current Egyptian tariff tiers
 - [Discount Calculator | حاسبة الخصم](https://abood-ayman.github.io/discount-calculator-ar/) — final price and savings, forward and reverse
