@@ -21,6 +21,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Overtime Pay Calculator | حاسبة الأجر الإضافي](https://abood-ayman.github.io/overtime-calculator-eg/) — overtime dues under Egyptian labor law (+35% day, +70% night, double rest day)
 - [Time Zone Converter | محول التوقيت بين الدول](https://abood-ayman.github.io/timezone-converter-ar/) — Cairo time to 10+ cities with automatic daylight saving
 - [VAT Calculator | حاسبة ضريبة القيمة المضافة](https://abood-ayman.github.io/vat-calculator-eg/) — add or extract VAT at 14% or any rate
+- [Running Pace Calculator | حاسبة إيقاع الجري](https://abood-ayman.github.io/pace-calculator-ar/) — pace, speed and predicted finish times
 - [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
