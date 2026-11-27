@@ -20,6 +20,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [Daily Calorie Calculator | حاسبة السعرات الحرارية](https://abood-ayman.github.io/calories-calculator-ar/) — daily calorie needs with loss/gain targets (Mifflin-St Jeor)
 - [Overtime Pay Calculator | حاسبة الأجر الإضافي](https://abood-ayman.github.io/overtime-calculator-eg/) — overtime dues under Egyptian labor law (+35% day, +70% night, double rest day)
 - [Time Zone Converter | محول التوقيت بين الدول](https://abood-ayman.github.io/timezone-converter-ar/) — Cairo time to 10+ cities with automatic daylight saving
+- [VAT Calculator | حاسبة ضريبة القيمة المضافة](https://abood-ayman.github.io/vat-calculator-eg/) — add or extract VAT at 14% or any rate
 - [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
