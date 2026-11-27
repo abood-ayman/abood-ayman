@@ -23,6 +23,7 @@ I build free, privacy-friendly web tools — mostly Arabic-first — with the he
 - [VAT Calculator | حاسبة ضريبة القيمة المضافة](https://abood-ayman.github.io/vat-calculator-eg/) — add or extract VAT at 14% or any rate
 - [Running Pace Calculator | حاسبة إيقاع الجري](https://abood-ayman.github.io/pace-calculator-ar/) — pace, speed and predicted finish times
 - [Loan Early Payoff Calculator | حاسبة السداد المبكر](https://abood-ayman.github.io/loan-early-payoff-ar/) — months and interest saved by paying extra
+- [Daily Water Intake Calculator | حاسبة احتياج المياه](https://abood-ayman.github.io/water-intake-ar/) — daily liters from weight, activity and heat
 - [Currency Converter | محول العملات](https://abood-ayman.github.io/currency-converter-ar/) — convert between any two currencies at a rate you enter yourself
 
 **Study and productivity**
