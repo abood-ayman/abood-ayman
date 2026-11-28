@@ -1,11 +1,16 @@
 # Abdullah Ayman
 
-I build free, privacy-friendly web tools — mostly Arabic-first — with the help of AI tools. Everything runs in the browser: no accounts, no tracking, no servers.
+Management Information Systems student in Suez, Egypt, focusing on **databases and SQL**.
+
 ## Current focus: databases and SQL
 
-I'm studying databases and SQL every day and building practice projects. Follow my learning log: [sql-practice](https://github.com/abood-ayman/sql-practice). The free tools below were built earlier with AI tools.
+I'm learning SQL and database design every day and building small practice projects. Follow my learning log: [sql-practice](https://github.com/abood-ayman/sql-practice).
 
-## Free tools (live on GitHub Pages)
+Background: during a PETROJET training I kept project records (daily reports, calculations, welding records, unit counts) in Excel, which is why I care about well-structured data.
+
+## Earlier projects: free web tools
+
+Before focusing on databases I built these small tools with the help of AI tools. Everything runs in the browser: no accounts, no tracking, no servers.
 
 **Money and calculations**
 - [Zakat Calculator | حاسبة الزكاة](https://abood-ayman.github.io/zakat-calculator-ar/) — zakat on cash, gold and silver with an automatic nisab check
